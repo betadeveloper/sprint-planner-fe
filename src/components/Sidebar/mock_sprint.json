@@ -1,0 +1,107 @@
+[
+    {
+        "id": 1,
+        "memebers": [
+            {
+                "id": 1,
+                "name": "Matt Brook",
+                "role": "Back-End",
+                "softDelete": "false"
+            },
+            {
+                "id": 2,
+                "name": "Conel McClane",
+                "role": "Designer",
+                "softDelete": "true"
+            }
+        ],
+        "tasks": [
+            {
+                "keyValue": "SFD-175",
+                "description": "Create collapsable card component with styles",
+                "type": "Goal",
+                "oldPoints": "3",
+                "remainingPoints": "1",
+                "newPoints": "2"
+            },
+            {
+                "keyValue": "SFD-170",
+                "description": "Update role handling",
+                "type": "Technical",
+                "oldPoints": "5",
+                "remainingPoints": "4",
+                "newPoints": "2"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "memebers": [
+            {
+                "id": 3,
+                "name": "Laura Sunshine",
+                "role": "Front-End",
+                "softDelete": "false"
+            },
+            {
+                "id": 4,
+                "name": "John Smith",
+                "role": "Front-End",
+                "softDelete": "false"
+            },
+            {
+                "id": 5,
+                "name": "Gavin Nealson",
+                "role": "Back-End",
+                "softDelete": "false"
+            }
+        ],
+        "tasks": [
+            {
+                "keyValue": "SAA-1",
+                "description": "Create general page layout",
+                "type": "Goal",
+                "oldPoints": "4",
+                "remainingPoints": "1",
+                "newPoints": "0"
+            },
+            {
+                "keyValue": "SAM-2",
+                "description": "Set up react app",
+                "type": "Goal",
+                "oldPoints": "7",
+                "remainingPoints": "5",
+                "newPoints": "1"
+            },
+            {
+                "keyValue": "KFS-52",
+                "description": "Create login form",
+                "type": "Technical",
+                "oldPoints": "5",
+                "remainingPoints": "2",
+                "newPoints": "2"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "memebers": [
+            {
+                "id": 5,
+                "name": "Gavin Nealson",
+                "role": "Back-End",
+                "softDelete": "false"
+            }
+        ],
+        "tasks": [
+            {
+                "keyValue": "KFS-52",
+                "description": "Create login form",
+                "type": "Technical",
+                "oldPoints": "5",
+                "remainingPoints": "2",
+                "newPoints": "2"
+            }
+        ]
+    }
+]

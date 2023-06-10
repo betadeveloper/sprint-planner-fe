@@ -1,0 +1,5 @@
+To create environment variables, create a .env file in this folder (the root directory).
+The text in the .env file should be:
+REACT_APP_BASE_URL = http://localhost:8080
+The url on the right is unique to you, the name on the left is the same for everyone.
+If you need to create more environment variables on front end, all of them must start with REACT_APP_

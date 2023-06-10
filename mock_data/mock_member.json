@@ -1,0 +1,22 @@
+[
+  { "id": 1, "name": "Matt Brook", "role": "Back-End", "softDelete": "false" },
+  {
+    "id": 2,
+    "name": "Conel McClane",
+    "role": "Designer",
+    "softDelete": "true"
+  },
+  {
+    "id": 3,
+    "name": "Laura Sunshine",
+    "role": "Front-End",
+    "softDelete": "false"
+  },
+  { "id": 4, "name": "John Smith", "role": "Front-End", "softDelete": "false" },
+  {
+    "id": 5,
+    "name": "Gavin Nealson",
+    "role": "Back-End",
+    "softDelete": "false"
+  }
+]

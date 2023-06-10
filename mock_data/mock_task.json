@@ -1,0 +1,42 @@
+[
+  {
+    "key": "SFD-175",
+    "description": "Create collapsable card component with styles",
+    "type": "Goal",
+    "oldPoints": "3",
+    "remainingPoints": "1",
+    "newPoints": "2"
+  },
+  {
+    "key": "SFD-170",
+    "description": "Update role handling",
+    "type": "Technical",
+    "oldPoints": "5",
+    "remainingPoints": "4",
+    "newPoints": "2"
+  },
+  {
+    "key": "SAA-1",
+    "description": "Create general page layout",
+    "type": "Goal",
+    "oldPoints": "4",
+    "remainingPoints": "1",
+    "newPoints": "0"
+  },
+  {
+    "key": "SAM-2",
+    "description": "Set up react app",
+    "type": "Goal",
+    "oldPoints": "7",
+    "remainingPoints": "5",
+    "newPoints": "1"
+  },
+  {
+    "key": "KFS-52",
+    "description": "Create login form",
+    "type": "Technical",
+    "oldPoints": "5",
+    "remainingPoints": "2",
+    "newPoints": "2"
+  }
+]

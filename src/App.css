@@ -1,0 +1,10 @@
+.link {
+  text-decoration: none;
+}
+
+.openedSideBarLink {
+  display: flex;
+  align-items: center;
+  position: absolute;
+  left: 10px;
+}
